@@ -10,7 +10,7 @@ console.log (name)
 // Stampa tutti i valori nella console.
 const number = "31"
 const text = "Maggio 2025"
-const bool = "true"
+const bool = true
 console.log (number)
 console.log (text)
 console.log (bool)
